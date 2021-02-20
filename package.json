@@ -1,7 +1,7 @@
 {
   "name": "nba-app-plab",
   "version": "1.0.0",
-  "description": "",
+  "description": "This application is created and intended to be a NBA fantasy application.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -16,7 +16,7 @@
     "url": "git+https://github.com/JasonOuyang80/nba-app-plab.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Jason Ouyang, Ivan Yu",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/JasonOuyang80/nba-app-plab/issues"
